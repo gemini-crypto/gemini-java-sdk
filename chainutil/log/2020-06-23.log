@@ -1,0 +1,296 @@
+2020-06-23 09:13:42 -Starting Application on liugongandeMacBook-Pro.local with PID 2496 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:13:42 -No active profile set, falling back to default profiles: default
+2020-06-23 09:13:45 -Started Application in 3.746 seconds (JVM running for 4.096)
+2020-06-23 09:14:00 -扫描发交易报错了!
+java.lang.NumberFormatException: For input string: "0000.0000"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+	at java.lang.Integer.parseInt(Integer.java:580)
+	at java.math.BigInteger.<init>(BigInteger.java:479)
+	at java.math.BigInteger.<init>(BigInteger.java:606)
+	at com.yzcm.common.taskjob.AutoService.diytoken(AutoService.java:901)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:65)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:81)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-06-23 09:16:04 -Starting Application on liugongandeMacBook-Pro.local with PID 3926 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:16:04 -No active profile set, falling back to default profiles: default
+2020-06-23 09:16:08 -Started Application in 3.696 seconds (JVM running for 4.067)
+2020-06-23 09:16:20 -币发给总账户失败,失败原因{"message":"组装交易失败","state":"1"}
+2020-06-23 09:16:20 -币发给总账户失败,失败原因{"message":"组装交易失败","state":"1"}
+2020-06-23 09:21:35 -Starting Application on liugongandeMacBook-Pro.local with PID 7225 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:21:35 -No active profile set, falling back to default profiles: default
+2020-06-23 09:21:38 -Started Application in 3.542 seconds (JVM running for 3.914)
+2020-06-23 09:21:40 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:21:40 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:23:09 -Starting Application on liugongandeMacBook-Pro.local with PID 8156 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:23:09 -No active profile set, falling back to default profiles: default
+2020-06-23 09:23:12 -Started Application in 3.108 seconds (JVM running for 3.421)
+2020-06-23 09:23:20 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:23:20 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:28:06 -Starting Application on liugongandeMacBook-Pro.local with PID 11110 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:28:06 -No active profile set, falling back to default profiles: default
+2020-06-23 09:28:09 -Started Application in 3.568 seconds (JVM running for 3.969)
+2020-06-23 09:28:20 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:28:20 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:31:44 -Starting Application on liugongandeMacBook-Pro.local with PID 13288 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:31:44 -No active profile set, falling back to default profiles: default
+2020-06-23 09:31:47 -Started Application in 3.181 seconds (JVM running for 3.547)
+2020-06-23 09:32:00 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:32:00 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 09:33:21 -Starting Application on liugongandeMacBook-Pro.local with PID 14262 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:33:21 -No active profile set, falling back to default profiles: default
+2020-06-23 09:33:24 -Started Application in 3.006 seconds (JVM running for 3.368)
+2020-06-23 09:34:00 -扫描发交易报错了!
+org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: update yzcm_diytoken set cmc_zt=2,cmc_sendhash=?,cmc_sendtime=now() where cmc_id=?
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+; SQL []; Data truncation: Data too long for column 'cmc_sendhash' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:102)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:75)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:447)
+	at com.sun.proxy.$Proxy66.update(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.update(SqlSessionTemplate.java:295)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:59)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53)
+	at com.sun.proxy.$Proxy67.diytokenTwo(Unknown Source)
+	at com.yzcm.common.taskjob.AutoService.diytokenTask(AutoService.java:941)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:65)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:81)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3971)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy82.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	... 20 common frames omitted
+2020-06-23 09:45:49 -Starting Application on liugongandeMacBook-Pro.local with PID 21690 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 09:45:49 -No active profile set, falling back to default profiles: default
+2020-06-23 09:45:52 -Started Application in 3.747 seconds (JVM running for 4.124)
+2020-06-23 09:46:01 -扫描发交易报错了!
+org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: update yzcm_diytoken set cmc_zt=2,cmc_sendhash=?,cmc_sendtime=now() where cmc_id=?
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+; SQL []; Data truncation: Data too long for column 'cmc_sendhash' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:102)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:75)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:447)
+	at com.sun.proxy.$Proxy66.update(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.update(SqlSessionTemplate.java:295)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:59)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53)
+	at com.sun.proxy.$Proxy67.diytokenTwo(Unknown Source)
+	at com.yzcm.common.taskjob.AutoService.diytokenTask(AutoService.java:941)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:65)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:81)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3971)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy82.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	... 20 common frames omitted
+2020-06-23 10:12:46 -Starting Application on liugongandeMacBook-Pro.local with PID 37784 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:12:46 -No active profile set, falling back to default profiles: default
+2020-06-23 10:12:49 -Started Application in 3.735 seconds (JVM running for 4.173)
+2020-06-23 10:33:36 -Starting Application on liugongandeMacBook-Pro.local with PID 50233 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:33:36 -No active profile set, falling back to default profiles: default
+2020-06-23 10:33:39 -Started Application in 3.766 seconds (JVM running for 4.084)
+2020-06-23 10:33:41 -扫描发交易报错了2222!
+org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: update yzcm_diytoken set cmc_zt=2,cmc_sendhash=?,cmc_sendtime=now() where cmc_id=?
+### Cause: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+; SQL []; Data truncation: Data too long for column 'cmc_sendhash' at row 1; nested exception is com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at org.springframework.jdbc.support.SQLStateSQLExceptionTranslator.doTranslate(SQLStateSQLExceptionTranslator.java:102)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:73)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:75)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:447)
+	at com.sun.proxy.$Proxy66.update(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.update(SqlSessionTemplate.java:295)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:59)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:53)
+	at com.sun.proxy.$Proxy67.diytokenTwo(Unknown Source)
+	at com.yzcm.common.taskjob.AutoService.diytokenTask(AutoService.java:940)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:65)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:81)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.MysqlDataTruncation: Data truncation: Data too long for column 'cmc_sendhash' at row 1
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3971)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy82.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:434)
+	... 20 common frames omitted
+2020-06-23 10:35:22 -Starting Application on liugongandeMacBook-Pro.local with PID 51290 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:35:22 -No active profile set, falling back to default profiles: default
+2020-06-23 10:35:25 -Started Application in 3.238 seconds (JVM running for 3.554)
+2020-06-23 10:35:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgmuhbYePHLJoqdMF3ki2Uno1pQNsHT,发送结果{"message":"88ec42a3d5260e6a0a1580d5b15d758767b390d660a282cc7829623da9eb22ee","state":"0","contractAddress":""}
+2020-06-23 10:50:03 -Starting Application on liugongandeMacBook-Pro.local with PID 60048 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:50:03 -No active profile set, falling back to default profiles: default
+2020-06-23 10:50:07 -Started Application in 3.669 seconds (JVM running for 4.062)
+2020-06-23 10:50:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgnSM2HHpSXojr7p9XW8Ui6uFM7DWq2,发送结果{"message":"b64e02197cf7e7a802c55f918c34caefc4f501c5abfa32292674ca41451add07","state":"0","contractAddress":""}
+2020-06-23 10:54:00 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgparmNHLKhSRpHHGBVhcpnHcdHoyCz,发送结果{"message":"Data error","state":"0","contractAddress":""}
+2020-06-23 10:55:28 -Starting Application on liugongandeMacBook-Pro.local with PID 63288 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:55:28 -No active profile set, falling back to default profiles: default
+2020-06-23 10:55:31 -Started Application in 3.059 seconds (JVM running for 3.408)
+2020-06-23 10:55:41 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgkrEu82Y5wf5cJVqaPLu7Y42KEs33T,发送结果{"message":"Data error","state":"0","contractAddress":""}
+2020-06-23 10:56:00 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6Hgm9KPV7h5fQN8MaH2GN4W6gN5cybyJ,发送结果{"message":"Data error","state":"0","contractAddress":""}
+2020-06-23 10:59:13 -Starting Application on liugongandeMacBook-Pro.local with PID 65524 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 10:59:13 -No active profile set, falling back to default profiles: default
+2020-06-23 10:59:16 -Started Application in 3.477 seconds (JVM running for 3.883)
+2020-06-23 10:59:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6Hgn8bo6dR1U1EgqjSsM4enV4xfZd4TH,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:00:12 -Starting Application on liugongandeMacBook-Pro.local with PID 66110 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:00:12 -No active profile set, falling back to default profiles: default
+2020-06-23 11:00:15 -Started Application in 3.239 seconds (JVM running for 3.564)
+2020-06-23 11:00:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6Hgom3Hp2KewG5udaSLpYbrAvTHh41HZ,发送结果{"message":"6f00269f201a3b831db1d95d1049366beb9acf953d5a781867be9eae91f5c25e","state":"0","contractAddress":""}
+2020-06-23 11:08:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgpfapY8GxZhAeDKRgnGzqUYQ21BoJr,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:09:00 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgpfapY8GxZhAeDKRgnGzqUYQ21BoJr,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:09:25 -Starting Application on liugongandeMacBook-Pro.local with PID 71608 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:09:25 -No active profile set, falling back to default profiles: default
+2020-06-23 11:09:27 -Started Application in 3.126 seconds (JVM running for 3.441)
+2020-06-23 11:10:00 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgqvXTZkegyF6UXcdYMJeX7gmiaGsCg,发送结果{"message":"37ad849f7e5ee7c6014ef2f4f01cc6aa6b4ca5d1efb7c27b5e235a059153b6da","state":"0","contractAddress":""}
+2020-06-23 11:11:00 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgmTtDfG15zLmNcK9BLq2MvSt8xNfdg,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:11:20 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgmTtDfG15zLmNcK9BLq2MvSt8xNfdg,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:11:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgmTtDfG15zLmNcK9BLq2MvSt8xNfdg,发送结果{"message":"Data error","state":"1","contractAddress":""}
+2020-06-23 11:12:20 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgxUmYntrgNH6Xyp96JBnQ27AyYHDbM,发送结果{"message":"242c15d4fa550c83271cd33dd8965c327bc308a04c8456084b4f0ea3351ad113","state":"0","contractAddress":""}
+2020-06-23 11:35:08 -Starting Application on liugongandeMacBook-Pro.local with PID 86939 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:35:08 -No active profile set, falling back to default profiles: default
+2020-06-23 11:35:11 -Started Application in 3.828 seconds (JVM running for 4.156)
+2020-06-23 11:35:21 -定制完成
+2020-06-23 11:35:21 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgnnKFCbemBqG3QTm7jJFiiiP9fGRw3,发送结果{"message":"ecfd3a2e2d2977fc9b7fa0ae8ff0769291d83c608213643271911fcdab5c92b7","state":"0","contractAddress":""}
+2020-06-23 11:48:21 -Starting Application on liugongandeMacBook-Pro.local with PID 94829 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:48:21 -No active profile set, falling back to default profiles: default
+2020-06-23 11:48:24 -Started Application in 3.625 seconds (JVM running for 4.091)
+2020-06-23 11:48:40 -定制完成
+2020-06-23 11:48:40 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6Hh162HxUKzxWUACJpLQ3oqhHNQUvfFN,发送结果{"message":"04c9fe8cb5b43509c36e128853df2b620bf976e956ac010ebfbcd274faaafdf2","state":"0","contractAddress":""}
+2020-06-23 11:51:33 -Starting Application on liugongandeMacBook-Pro.local with PID 96730 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:51:33 -No active profile set, falling back to default profiles: default
+2020-06-23 11:51:36 -Started Application in 3.504 seconds (JVM running for 3.883)
+2020-06-23 11:51:40 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 11:52:17 -Starting Application on liugongandeMacBook-Pro.local with PID 97182 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:52:17 -No active profile set, falling back to default profiles: default
+2020-06-23 11:52:20 -Started Application in 3.564 seconds (JVM running for 3.907)
+2020-06-23 11:52:30 -币发给总账户失败,失败原因{"message":"加密失败","state":"1","contractAddress":""}
+2020-06-23 11:53:13 -Starting Application on liugongandeMacBook-Pro.local with PID 97733 (/Users/liugongan/bottonworkspace/bottonsummary/target/classes started by liugongan in /Users/liugongan/bottonworkspace/bottonsummary)
+2020-06-23 11:53:13 -No active profile set, falling back to default profiles: default
+2020-06-23 11:53:16 -Started Application in 3.708 seconds (JVM running for 4.087)
+2020-06-23 11:53:30 -定制完成
+2020-06-23 11:53:30 -接受地址BOCc6HgZZaviteuuVZ9LK79tVm9gRkUfSi69,接受数量100000.0,合约地址BOCc6HgkFKbcdg48ENeY1ppGJVJZa6SPMpRm,发送结果{"message":"4ab9c3f2ccdc8f87fe8cd61bb7abd0b1c8fed64cf857e172f1d18a61e1695166","state":"0","contractAddress":""}

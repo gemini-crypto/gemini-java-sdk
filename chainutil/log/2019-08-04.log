@@ -1,0 +1,353 @@
+2019-08-04 15:44:00 -Starting Application on PC-201704111147 with PID 3700 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 15:44:00 -No active profile set, falling back to default profiles: default
+2019-08-04 15:44:05 -Started Application in 4.9 seconds (JVM running for 5.464)
+2019-08-04 15:49:25 -Starting Application on PC-201704111147 with PID 7876 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 15:49:25 -No active profile set, falling back to default profiles: default
+2019-08-04 15:49:29 -Started Application in 5.201 seconds (JVM running for 5.743)
+2019-08-04 15:50:34 -1用户生成地址:0x6Dd8Ff3943002192C0e0906EFEe5Ef9B451e18da
+2019-08-04 16:12:42 -1用户生成地址:0x6dd8ff3943002192c0e0906efee5ef9b451e18da
+2019-08-04 16:12:48 -1用户生成地址:0x6dd8ff3943002192c0e0906efee5ef9b451e18da
+2019-08-04 16:35:14 -1用户生成地址:1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4
+2019-08-04 16:47:05 -Starting Application on PC-201704111147 with PID 6924 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 16:47:05 -No active profile set, falling back to default profiles: default
+2019-08-04 16:47:10 -Started Application in 5.738 seconds (JVM running for 6.294)
+2019-08-04 16:47:17 -提币结果:{"message":"提币地址不合法","state":"1"}
+2019-08-04 16:47:34 -提币结果:{"message":"操作失败,提币数量不能低于手续费","state":"1"}
+2019-08-04 16:48:02 -提币结果:{"message":"操作失败,提币数量不能低于手续费","state":"1"}
+2019-08-04 16:49:01 -Starting Application on PC-201704111147 with PID 8424 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 16:49:01 -No active profile set, falling back to default profiles: default
+2019-08-04 16:49:06 -Started Application in 5.798 seconds (JVM running for 6.377)
+2019-08-04 16:49:11 -提币结果:{"message":"操作失败,提币数量不能低于手续费","state":"1"}
+2019-08-04 16:50:32 -Starting Application on PC-201704111147 with PID 8064 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 16:50:32 -No active profile set, falling back to default profiles: default
+2019-08-04 16:50:36 -Started Application in 5.169 seconds (JVM running for 5.739)
+2019-08-04 16:50:41 -提币结果:{"message":"操作失败,余额不足","state":"1"}
+2019-08-04 16:50:49 -提币结果:{"message":"操作失败,不能低于单笔最低","state":"1"}
+2019-08-04 16:50:56 -提币用户1,币种1,发送地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,接受地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,提币数量0.0001,手续费0.0000
+2019-08-04 16:50:56 -提币结果:{"message":"提币成功","state":"0"}
+2019-08-04 16:53:45 -提币用户1,币种1,发送地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,接受地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,提币数量0.0001,手续费0.0000
+2019-08-04 16:53:45 -提币结果:{"message":"提币成功","state":"0"}
+2019-08-04 16:53:51 -提币结果:{"message":"操作失败,余额不足","state":"1"}
+2019-08-04 16:55:05 -提币用户1,币种1,发送地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,接受地址0x6dd8ff3943002192c0e0906efee5ef9b451e18da,提币数量0.0001,手续费0.0000
+2019-08-04 16:55:05 -提币结果:{"message":"提币成功","state":"0"}
+2019-08-04 16:58:16 -提币结果:{"message":"提币地址不合法","state":"1"}
+2019-08-04 16:58:27 -提币结果:{"message":"操作失败,不能低于单笔最低","state":"1"}
+2019-08-04 16:58:57 -提币结果:{"message":"操作失败,余额不足","state":"1"}
+2019-08-04 16:59:10 -提币结果:{"message":"操作失败,不能高于单笔最高","state":"1"}
+2019-08-04 16:59:21 -提币结果:{"message":"操作失败,余额不足","state":"1"}
+2019-08-04 16:59:27 -提币用户1,币种2,发送地址1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4,接受地址1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4,提币数量0.0001,手续费0.0000
+2019-08-04 16:59:27 -提币结果:{"message":"提币成功","state":"0"}
+2019-08-04 17:03:00 -提币结果:{"message":"操作失败,余额不足","state":"1"}
+2019-08-04 17:03:06 -提币用户1,币种3,发送地址1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4,接受地址1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4,提币数量0.01,手续费0.0000
+2019-08-04 17:03:06 -提币结果:{"message":"提币成功","state":"0"}
+2019-08-04 17:10:30 -Starting Application on PC-201704111147 with PID 8508 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:10:30 -No active profile set, falling back to default profiles: default
+2019-08-04 17:11:08 -Starting Application on PC-201704111147 with PID 5288 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:11:08 -No active profile set, falling back to default profiles: default
+2019-08-04 17:11:13 -Started Application in 5.42 seconds (JVM running for 5.972)
+2019-08-04 17:11:20 -自动汇总组件执行开始,atomicLong=1,开始时间=2019-08-04 17:11:20.060
+2019-08-04 17:11:25 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:11:27 -自动汇总组件报错了!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:158)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-04 17:11:27 -自动汇总组件执行结束,atomicLong=1,結束时间=2019-08-04 17:11:27.406,消耗的时间=7346ms
+2019-08-04 17:11:30 -自动汇总组件执行开始,atomicLong=2,开始时间=2019-08-04 17:11:30.001
+2019-08-04 17:11:33 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:11:35 -自动汇总组件报错了!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:158)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-04 17:11:35 -自动汇总组件执行结束,atomicLong=2,結束时间=2019-08-04 17:11:35.306,消耗的时间=5305ms
+2019-08-04 17:11:40 -自动汇总组件执行开始,atomicLong=3,开始时间=2019-08-04 17:11:40.002
+2019-08-04 17:11:44 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:11:46 -自动汇总组件报错了!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:158)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-04 17:11:46 -自动汇总组件执行结束,atomicLong=3,結束时间=2019-08-04 17:11:46.707,消耗的时间=6705ms
+2019-08-04 17:11:50 -自动汇总组件执行开始,atomicLong=4,开始时间=2019-08-04 17:11:50.000
+2019-08-04 17:11:53 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:11:55 -自动汇总组件报错了!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:158)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-04 17:11:55 -自动汇总组件执行结束,atomicLong=4,結束时间=2019-08-04 17:11:55.022,消耗的时间=5022ms
+2019-08-04 17:12:00 -自动汇总组件执行开始,atomicLong=5,开始时间=2019-08-04 17:12:00.000
+2019-08-04 17:12:02 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:12:04 -自动汇总组件报错了!
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:158)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2019-08-04 17:12:04 -自动汇总组件执行结束,atomicLong=5,結束时间=2019-08-04 17:12:04.964,消耗的时间=4964ms
+2019-08-04 17:12:10 -自动汇总组件执行开始,atomicLong=6,开始时间=2019-08-04 17:12:10.000
+2019-08-04 17:12:13 -0x6dd8ff3943002192c0e0906efee5ef9b451e18da矿工费费满足,往主账号0x6dd8ff3943002192c0e0906efee5ef9b451e18da地址0.00097400划转ETH个{}
+2019-08-04 17:12:16 -获取ETH签名:{"status":"0","message":"SUCCESS","data":"0xf86d824d2f850165a0bc00825208946dd8ff3943002192c0e0906efee5ef9b451e18da870375d90c02e000801ba002c89275a410f9c386a31374dbcdcbc358fe8a00747be35757505df2187665c7a0256a179e73794803defcef0a963fabcdd05d00f7688b1abfb40780212692f33f"}
+2019-08-04 17:12:17 -ETH公链发送签名结果:success:0x28263ae217a9578b6c69a33d9dafbd0de57cef8f4030d686551bcb4a160885c1
+2019-08-04 17:12:17 -汇总结果success:0x28263ae217a9578b6c69a33d9dafbd0de57cef8f4030d686551bcb4a160885c1
+2019-08-04 17:12:17 -自动汇总组件执行结束,atomicLong=6,結束时间=2019-08-04 17:12:17.972,消耗的时间=7972ms
+2019-08-04 17:12:20 -自动汇总组件执行开始,atomicLong=7,开始时间=2019-08-04 17:12:20.000
+2019-08-04 17:12:20 -自动汇总组件执行结束,atomicLong=7,結束时间=2019-08-04 17:12:20.017,消耗的时间=17ms
+2019-08-04 17:12:30 -自动汇总组件执行开始,atomicLong=8,开始时间=2019-08-04 17:12:30.001
+2019-08-04 17:12:30 -自动汇总组件执行结束,atomicLong=8,結束时间=2019-08-04 17:12:30.013,消耗的时间=12ms
+2019-08-04 17:12:40 -自动汇总组件执行开始,atomicLong=9,开始时间=2019-08-04 17:12:40.001
+2019-08-04 17:12:40 -自动汇总组件执行结束,atomicLong=9,結束时间=2019-08-04 17:12:40.018,消耗的时间=17ms
+2019-08-04 17:12:50 -自动汇总组件执行开始,atomicLong=10,开始时间=2019-08-04 17:12:50.000
+2019-08-04 17:12:50 -自动汇总组件执行结束,atomicLong=10,結束时间=2019-08-04 17:12:50.014,消耗的时间=14ms
+2019-08-04 17:13:00 -自动汇总组件执行开始,atomicLong=11,开始时间=2019-08-04 17:13:00.001
+2019-08-04 17:13:00 -自动汇总组件执行结束,atomicLong=11,結束时间=2019-08-04 17:13:00.014,消耗的时间=13ms
+2019-08-04 17:13:10 -自动汇总组件执行开始,atomicLong=12,开始时间=2019-08-04 17:13:10.001
+2019-08-04 17:13:10 -自动汇总组件执行结束,atomicLong=12,結束时间=2019-08-04 17:13:10.015,消耗的时间=14ms
+2019-08-04 17:13:20 -Starting Application on PC-201704111147 with PID 7724 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:13:20 -No active profile set, falling back to default profiles: default
+2019-08-04 17:13:25 -Started Application in 5.353 seconds (JVM running for 5.934)
+2019-08-04 17:13:30 -自动汇总组件执行开始,atomicLong=1,开始时间=2019-08-04 17:13:30.007
+2019-08-04 17:13:30 -1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4待汇总的数量低于旷工费0.00010
+2019-08-04 17:13:30 -汇总结果success:汇总数量不满足0.00010
+2019-08-04 17:13:30 -自动汇总组件报错了!
+org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+### The error may exist in file [D:\workspace\exchageworkspace\blockchainauto\target\classes\mapping\system\AutoMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select isnull(sum(cmc_amount),0)  from            yzcm_btc_utxo          where cmc_status in( 0,1)  and cmc_address =?
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+	at org.springframework.jdbc.support.SQLExceptionSubclassTranslator.doTranslate(SQLExceptionSubclassTranslator.java:93)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy64.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:83)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy65.getBalance(Unknown Source)
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:205)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.Util.getInstance(Util.java:387)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:942)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1192)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:326)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 21 common frames omitted
+2019-08-04 17:13:30 -自动汇总组件执行结束,atomicLong=1,結束时间=2019-08-04 17:13:30.689,消耗的时间=682ms
+2019-08-04 17:13:40 -自动汇总组件执行开始,atomicLong=2,开始时间=2019-08-04 17:13:40.001
+2019-08-04 17:13:40 -自动汇总组件报错了!
+org.springframework.jdbc.BadSqlGrammarException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+### The error may exist in file [D:\workspace\exchageworkspace\blockchainauto\target\classes\mapping\system\AutoMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: select isnull(sum(cmc_amount),0)  from            yzcm_btc_utxo          where cmc_status in( 0,1)  and cmc_address =?
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+; bad SQL grammar []; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+	at org.springframework.jdbc.support.SQLExceptionSubclassTranslator.doTranslate(SQLExceptionSubclassTranslator.java:93)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:72)
+	at org.springframework.jdbc.support.AbstractFallbackSQLExceptionTranslator.translate(AbstractFallbackSQLExceptionTranslator.java:81)
+	at org.mybatis.spring.MyBatisExceptionTranslator.translateExceptionIfPossible(MyBatisExceptionTranslator.java:73)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:446)
+	at com.sun.proxy.$Proxy64.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:166)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:83)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy65.getBalance(Unknown Source)
+	at com.yzcm.common.taskjob.AutoService.autoSummary1(AutoService.java:205)
+	at com.yzcm.common.taskjob.AutoService.autoSummary(AutoService.java:114)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at org.springframework.scheduling.concurrent.ReschedulingRunnable.run(ReschedulingRunnable.java:93)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Incorrect parameter count in the call to native function 'isnull'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+	at com.mysql.jdbc.Util.getInstance(Util.java:387)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:942)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3966)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3902)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2526)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2673)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2549)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1861)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1192)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:63)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:79)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:63)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:326)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	... 21 common frames omitted
+2019-08-04 17:13:40 -自动汇总组件执行结束,atomicLong=2,結束时间=2019-08-04 17:13:40.019,消耗的时间=18ms
+2019-08-04 17:14:03 -Starting Application on PC-201704111147 with PID 8384 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:14:03 -No active profile set, falling back to default profiles: default
+2019-08-04 17:14:08 -Started Application in 5.076 seconds (JVM running for 5.779)
+2019-08-04 17:14:10 -自动汇总组件执行开始,atomicLong=1,开始时间=2019-08-04 17:14:10.005
+2019-08-04 17:14:10 -1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4地址余额:0.000747660000000000
+2019-08-04 17:14:10 -1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4矿工费费满足，往主账号地址1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4划转0.0100个USDT
+2019-08-04 17:14:11 -USDT获取签名结果:{"status":"0","message":"SUCCESS","data":"0100000002b7341f7a955be3a967376c06cce820b223cc20a6aff3998cf3a1c30a3f4e4bad000000006a473044022073b51227c72e4e12ef75aaac85de576c6038ba0f0fbfab15d5e0f524b2c6dcd402201c4adafe35dc4a9c16cc5cab8b42711471909af914f58f84d37ece5e4d34de3701210333aa0c7e3c5b99a894e38355792b628b061d27d07644ecaabde1e5f9eb8960e2ffffffffb7341f7a955be3a967376c06cce820b223cc20a6aff3998cf3a1c30a3f4e4bad020000006b483045022100efaf028af1318b3efd57f614c55d5080947233985f74fcb3860b9eb9782e21c002205513b3b140058421ac679c2f313a49b2e3d03cd5152266a3aa44419a7c6f652a01210333aa0c7e3c5b99a894e38355792b628b061d27d07644ecaabde1e5f9eb8960e2ffffffff0322020000000000001976a914b6f535b4db2825068de70fd3121d56c61c0b4d7a88ac0000000000000000166a146f6d6e69000000000000001f00000000000f4240dcfa0000000000001976a914b6f535b4db2825068de70fd3121d56c61c0b4d7a88ac00000000"}
+2019-08-04 17:14:12 -BTC公链发送签名结果:success:f17492e65fe06fc4b670946e0666ba88a4c27db46fdbefde69c5b4c427139089
+2019-08-04 17:14:12 -汇总结果success:f17492e65fe06fc4b670946e0666ba88a4c27db46fdbefde69c5b4c427139089
+2019-08-04 17:14:12 -自动汇总组件执行结束,atomicLong=1,結束时间=2019-08-04 17:14:12.154,消耗的时间=2149ms
+2019-08-04 17:14:20 -自动汇总组件执行开始,atomicLong=2,开始时间=2019-08-04 17:14:20.001
+2019-08-04 17:14:20 -自动汇总组件执行结束,atomicLong=2,結束时间=2019-08-04 17:14:20.020,消耗的时间=19ms
+2019-08-04 17:14:30 -自动汇总组件执行开始,atomicLong=3,开始时间=2019-08-04 17:14:30.001
+2019-08-04 17:14:30 -自动汇总组件执行结束,atomicLong=3,結束时间=2019-08-04 17:14:30.017,消耗的时间=16ms
+2019-08-04 17:14:40 -自动汇总组件执行开始,atomicLong=4,开始时间=2019-08-04 17:14:40.001
+2019-08-04 17:14:40 -自动汇总组件执行结束,atomicLong=4,結束时间=2019-08-04 17:14:40.017,消耗的时间=16ms
+2019-08-04 17:14:50 -自动汇总组件执行开始,atomicLong=5,开始时间=2019-08-04 17:14:50.002
+2019-08-04 17:14:50 -自动汇总组件执行结束,atomicLong=5,結束时间=2019-08-04 17:14:50.015,消耗的时间=13ms
+2019-08-04 17:15:00 -自动汇总组件执行开始,atomicLong=6,开始时间=2019-08-04 17:15:00.000
+2019-08-04 17:15:00 -自动汇总组件执行结束,atomicLong=6,結束时间=2019-08-04 17:15:00.024,消耗的时间=24ms
+2019-08-04 17:15:10 -自动汇总组件执行开始,atomicLong=7,开始时间=2019-08-04 17:15:10.001
+2019-08-04 17:15:10 -自动汇总组件执行结束,atomicLong=7,結束时间=2019-08-04 17:15:10.016,消耗的时间=15ms
+2019-08-04 17:15:20 -自动汇总组件执行开始,atomicLong=8,开始时间=2019-08-04 17:15:20.001
+2019-08-04 17:15:20 -自动汇总组件执行结束,atomicLong=8,結束时间=2019-08-04 17:15:20.016,消耗的时间=15ms
+2019-08-04 17:15:30 -自动汇总组件执行开始,atomicLong=9,开始时间=2019-08-04 17:15:30.002
+2019-08-04 17:15:30 -自动汇总组件执行结束,atomicLong=9,結束时间=2019-08-04 17:15:30.016,消耗的时间=14ms
+2019-08-04 17:16:26 -Starting Application on PC-201704111147 with PID 2396 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:16:26 -No active profile set, falling back to default profiles: default
+2019-08-04 17:16:34 -Started Application in 9.047 seconds (JVM running for 10.056)
+2019-08-04 17:16:40 -助记词:occur lottery defense attract buyer girl bicycle valley nut fury smooth maid-0角标私钥为:KwETyTE7VZY6nkTUiqq8oyDEUVhxYKpQ3TD7uPB6teowpMTpv9rT
+2019-08-04 17:16:40 -BTC获取签名结果:{"status":"0","message":"SUCCESS","data":"010000000289901327c4b4c569deefdb6fb47dc2a488ba66066e9470b6c46fe05fe69274f1000000006a473044022029e717f8c82978742223ecd63a42c182d18e1105e8a828baed3b40410797ee3902205e1e5bab2b67c98036e82144e3030a08cf8c1b4db68fe4f3026de096d5e5625e01210333aa0c7e3c5b99a894e38355792b628b061d27d07644ecaabde1e5f9eb8960e2ffffffff89901327c4b4c569deefdb6fb47dc2a488ba66066e9470b6c46fe05fe69274f1020000006a47304402207fbe15d15c7e75c3de2c538e66cee35a314e038fe2b1e5fbb1382f13921193f602206d879e0caef0db672a3456ba38831cc148f65cad63bc5f1342f2d52f6f34613901210333aa0c7e3c5b99a894e38355792b628b061d27d07644ecaabde1e5f9eb8960e2ffffffff03e8030000000000001976a914b6f535b4db2825068de70fd3121d56c61c0b4d7a88ac0000000000000000026a0006d20000000000001976a914b6f535b4db2825068de70fd3121d56c61c0b4d7a88ac00000000"}
+2019-08-04 17:16:41 -BTC公链发送签名结果:success:2409b74cb4faf6a7e5d168750ec6a647d0d9a768573757815af7f5e51646ebd6
+2019-08-04 17:16:41 -汇总结果success:2409b74cb4faf6a7e5d168750ec6a647d0d9a768573757815af7f5e51646ebd6
+2019-08-04 17:21:40 -Starting Application on PC-201704111147 with PID 4876 (D:\workspace\exchageworkspace\blockchainauto\target\classes started by Administrator in D:\workspace\exchageworkspace\blockchainauto)
+2019-08-04 17:21:40 -No active profile set, falling back to default profiles: default
+2019-08-04 17:21:45 -Started Application in 5.358 seconds (JVM running for 5.962)
+2019-08-04 17:21:47 -1用户生成地址:1HgPjPWYwctTC4FXiR74DoL2qwSCpZtWU4
+2019-08-04 17:23:19 -提币结果:{"message":"操作失败,余额不足","state":"1"}
